@@ -1,0 +1,76 @@
+100	Alimentacion y bebidas	Alimentation and Drinks
+101	Carnicerias y charcuterias	Butchers and delicatessens
+102	Delicatessen y comida preparada	Delicatessens & prepared food
+103	Pescaderias	Fishmonger
+104	Frutas y verduras	Fruits & vegetables
+105	Panaderias, pastelerias y heladerias	Bakeries, pastry shops and ice cream parlors
+106	Herbolarios y dieteticas	Herbalists and Dietetics
+107	Golosinas y frutos secos	Sweets and nuts
+108	Vinotecas, tes, cafes y chocolaterias	Wine cellars, teas, cafes and chocolateries
+200	Moda y complementos	Fashion and accessories
+201	Calzado Senora	Ladies shoes
+202	Calzado caballero	Men's footwear
+203	Calzado infantil	Footwear for children
+204	Bolsos de viaje, regalo y complementos	Travel bags, gifts and accessories
+205	Lenceria y corseteria	Lingerie and corsetry
+206	Lanas, telas y merceria	Wool, cloth and haberdashery
+207	Moda en Piel	Fashion in Leader
+208	Moda Senora	Fashion Lady
+209	Moda Caballero	Fashion Knight
+210	Moda Infantil	Children's fashion
+211	Novios, comunion y ceremonia	Novios, comunion and ceremony
+212	Joyeria, relojeria y trofeos	Jewelery, watches and trophies
+213	Bisuteria	Imitation jewelry
+300	Belleza y cuidado personal	Beauty and personal care
+301	Perfumeria y cosmetica	Perfumery and cosmetics
+302	Drogueria y accesorios	Drugs & accessories
+303	Centros de estetica y belleza	Aesthetic and beauty centers
+304	Peluquerias	Hairdressing
+400	Cultura	Culture
+401	Prensa y revistas	Press and magazines
+402	Papelerias y copisterias	Stationery and copy shops
+403	Librerias y tiendas especializadas	Bookstores and especialized stores
+404	Musica e instrumentos musicales	Music and Musical Instruments
+500	Informatica y electronica	Computers and electronics
+501	Informatica, servicios y consumibles	Computers, services and consumables
+502	Telefonia	Telephony
+503	Imagen y sonido	Image and sound
+504	Proyectos en telecomunicaciones	Projects in telecommunicacion
+600	Hogar	Home
+601	Bazar, menaje y plasticos	Bazaar, household and plastics
+602	Ferreteria y bricolaje	Hardware & DIY
+603	Jardin, animales domesticos y auxiliares	Garden, pets and auxiliaries
+604	Mueble auxiliar y regalo	Auxiliary furniture & gift
+605	Mobiliario. Descanso. Juveniles. Sofas. Armarios	Furniture, break, juveniles, sofas, wardrove
+606	Cocinas, banos y electrodomesticos	Kitchens, bathrooms and appliances
+607	Interiorismo Textil, colchonerias	Interior design. Textile, mattresses
+608	Cuadros y Enmarcaciones	Pictures and frames
+609	Puericultura	Childcare
+610	Antiguedades. Galerias de arte	Antiques. Art galeries
+700	Ocio y tiempo libre	Leisure and free time
+701	Deportes y nutricion deportiva	Sports & Sports Nutrition
+702	Jugueterias y articulos de broma	Toys and games
+703	Gimnasios y Centros deportivos	Gyms and Sports Centers
+704	Agencias de viaje	Travel agencies
+705	Filatelia, articulos de bellas artes	Philately, fine art items
+800	Salud	Health
+801	Opticas. Centros auditivos.	Optics. Hearing centers.
+802	Ortopedias. Tiendas para mayores	Orthopedics. Shops for seniors
+803	Servicios de asistencia en el Hogar	Home Assistance Services
+804	Clinicas medicas	Medical Clinics
+900	Motor	Motor
+901	Automovil y servicio de alquiler	Car and rental service
+902	Motos	Motorcycles
+903	Taller mecanico, recambios y repuestos	Mechanical workshop, spare parts and  spare parts
+1000	Servicios Profesionales	Proffessional Services
+1001	Tintorerias, Lavanderias, Composturas	Drycleaners, Laundries, Composting
+1002	Modistas, Sastrerias	Dressmaker, sastrerias
+1003	Duplicado de llaves y reparacion calzado	Duplication of keys and repair shoes
+1004	Inmobiliarias, Mudanzas	Estate agency, Removals
+1005	Servicio Tecnico Oficial	Official Technical Service
+1006	Obras y Reformas	Works and reforms
+1007	Ropa laboral	Workwear
+1008	Servicio de mensajeria	Messenger Service
+1009	Organizacion Eventos: Bodas. Bautizos. Otros.	Event organization: weddings, baptism, others
+1100	Centros educativos	Schools
+1200	Diversos	Miscellaneous
